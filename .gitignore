@@ -27,4 +27,7 @@ target/
 build/
 
 ### VS Code ###
-.vscode/
+vscode/
+
+### MAC
+.DS_store
